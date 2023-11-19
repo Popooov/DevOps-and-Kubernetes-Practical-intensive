@@ -1,0 +1,3 @@
+[submodule "02-week/gohttps"]
+	path = 02-week/gohttps
+	url = https://github.com/den-vasyliev/gohttps
